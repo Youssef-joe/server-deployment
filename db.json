@@ -1,0 +1,81 @@
+{
+  "items": [
+    {
+      "id": 2,
+      "image": "https://i.pinimg.com/564x/77/8b/be/778bbea8021c9fc03c8ddb51c124fef5.jpg",
+      "name": "Branded Shirts",
+      "price": 4,
+      "rating": 4
+    },
+    {
+      "id": 3,
+      "image": "https://i.pinimg.com/564x/19/b7/a9/19b7a90f481b320ce60dcf062e1974f2.jpg",
+      "name": "White",
+      "price": "85.0",
+      "rating": 3
+    },
+    {
+      "id": 4,
+      "image": "https://i.pinimg.com/564x/ff/d3/f5/ffd3f5d9fa133fe73ebaf66372f2f12c.jpg",
+      "name": "Gray Dress 1",
+      "price": "625",
+      "rating": 3
+    },
+    {
+      "id": 5,
+      "name": "Black T-Shirt (Mens)",
+      "image": "https://i.pinimg.com/564x/9c/7f/0c/9c7f0c13eea814cdcfb37eef6e2df010.jpg",
+      "price": "55.0",
+      "rating": 5
+    },
+    {
+      "id": 6,
+      "name": "Jeans Jacket",
+      "image": "https://i.pinimg.com/736x/3b/e9/9e/3be99e6482563afba3e02ba07a894408.jpg",
+      "price": "115.0",
+      "rating": 4
+    },
+    {
+      "id": 8,
+      "name": "Beige Trench Coat",
+      "image": "https://i.pinimg.com/564x/d9/fa/bf/d9fabfbcea69eee2c6166b089b2ab235.jpg",
+      "price": "52.0",
+      "rating": 1
+    },
+    {
+      "id": 10,
+      "name": "Stylish Hoody - B",
+      "image": "https://i.pinimg.com/564x/05/d8/e5/05d8e5fc4d53b5d9e9cb6e041b5733f1.jpg",
+      "price": "55.0",
+      "rating": 5
+    },
+    {
+      "id": 11,
+      "name": "Beanie Black",
+      "image": "https://i.pinimg.com/564x/d2/cf/eb/d2cfeb3c5b813d77f73123253545ef02.jpg",
+      "price": "15.0",
+      "rating": 1
+    },
+    {
+      "id": 12,
+      "name": "Denim Mens Outfit",
+      "image": "https://i.pinimg.com/736x/ab/b9/6b/abb96b36ca9a80153c987ae4bf45195d.jpg",
+      "price": "12.5",
+      "rating": 2
+    },
+    {
+      "id": 13,
+      "name": "Beanie Red",
+      "image": "https://i.pinimg.com/564x/b7/ad/7f/b7ad7f791cce162f99102a226593c145.jpg",
+      "price": "14.5",
+      "rating": 4
+    },
+    {
+      "id": 15,
+      "name": "Green Stylish Shirt",
+      "image": "https://i.pinimg.com/736x/85/94/3e/85943e49c4abae56d146581436553018.jpg",
+      "price": "15.5",
+      "rating": 5
+    }
+  ]
+}
