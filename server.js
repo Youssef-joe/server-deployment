@@ -48,6 +48,20 @@ app.get("/clothes", (req, res) => {
   });
 });
 
+app.get('clothes/:id', (req,res) => {
+  const id = req.params.id
+  const product = product.find(p => p.id === id);
+
+  if (product) {
+    res.status(200).json(product)
+
+  }else {
+    res.status(400).json({
+      message: "product not found"
+    })
+  }
+})
+
 // POST route - Allows to add a new item
 // example: localhost:3000/clothes
 /*
